@@ -1,8 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Chaudhary Hashir
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=42&duration=3500&pause=2000&color=58A6FF&center=true&vCenter=true&width=900&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Chaudhary+Hashir" alt="Typing Name" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=34&duration=3000&pause=1000&color=00C8FF&center=true&vCenter=true&width=850&lines=Python+Developer;Generative+AI;Agentic+AI;n8n+Automation" alt="Typing SVG" />
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1200&color=F7C52B&center=true&vCenter=true&width=900&height=60&lines=Python+Developer;Generative+AI;Agentic+AI;n8n+Automation" alt="Typing Roles" />
 
 ### 🚀 Building Intelligent AI Systems & Automation Workflows
 
@@ -12,21 +14,46 @@
 
 ## 👨‍💻 About Me
 
-I'm passionate about building intelligent AI applications and workflow automations. Currently focusing on modern AI technologies, autonomous AI agents, and scalable automation solutions.
+I'm a passionate developer focused on Artificial Intelligence, Automation, and Modern Software Development.
 
 - 🐍 Python Developer
-- 🤖 Generative AI Enthusiast
-- 🧠 Building Agentic AI Systems
-- ⚡ n8n Automation Developer
-- 🌱 Always Learning New Technologies
+- 🤖 Generative AI Developer
+- 🧠 Agentic AI Developer
+- ⚡ n8n Automation Builder
+- 🌱 Continuously Learning New Technologies
+- 🚀 Passionate About AI, Automation & Open Source
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-<p align="center">
+<div align="center">
+
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask,js,html,css,mongodb,mysql,git,github,vscode,docker,linux" />
-</p>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 💻 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
@@ -43,13 +70,28 @@ I'm passionate about building intelligent AI applications and workflow automatio
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/AIworking860-art
-- Email: hashir.muhammad1427@gmail.com
+<p align="center">
+
+<a href="https://github.com/AIworking860-art">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+
+
+<a href="mailto:hashir.muhammad1427@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
 <div align="center">
 
-⭐ **Thanks for visiting my profile!**
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+### ⭐ Thanks for Visiting My Profile!
+
+*"Code • Create • Automate • Innovate"* 🚀
 
 </div>
