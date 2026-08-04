@@ -43,9 +43,8 @@ I'm passionate about building intelligent AI applications and workflow automatio
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- Email: your@email.com
+- GitHub: https://github.com/AIworking860-art
+- Email: hashir.muhammad1427@gmail.com
 
 ---
 
